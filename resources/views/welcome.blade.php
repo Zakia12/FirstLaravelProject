@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Welcome to the homepage
+                    Welcome to the Zakia's first Laravel HOMEPAGE
                 </div>
 
                 <div class="links">
